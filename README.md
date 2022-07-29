@@ -1,3 +1,5 @@
+![kooshie](https://raw.githubusercontent.com/UrNightmaree/UrNightmaree/main/img/uwu.webp)
+---
 ## Hello :3
 I like to write Lua, JS and MoonScript.
 
