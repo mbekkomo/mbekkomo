@@ -1,5 +1,3 @@
-![kooshie](https://raw.githubusercontent.com/UrNightmaree/UrNightmaree/main/img/uwu.webp)
----
 ## Hello :3
 I like to write Lua, JS and MoonScript.
 
@@ -13,3 +11,7 @@ I like to write Lua, JS and MoonScript.
 
 - **[lconsole](https://github.com/UrNightmaree/lconsole)**
   - lconsole is a random project that I made inspired from npm package "[Console](https://www.npmjs.com/package/Console)"
+
+---
+
+![kooshie](https://raw.githubusercontent.com/UrNightmaree/UrNightmaree/main/img/uwu.webp)
