@@ -14,4 +14,4 @@ I like to write Lua, JS and MoonScript.
 
 ---
 
-![kooshie](https://raw.githubusercontent.com/UrNightmaree/UrNightmaree/main/img/uwu.webp)
+![kooshie](https://raw.githubusercontent.com/UrNightmaree/UrNightmaree/main/img/download.gif)
