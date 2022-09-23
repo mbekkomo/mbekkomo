@@ -6,11 +6,11 @@ I like to write Lua, JS and MoonScript.
 
 ### Projects
 
-- **[StringPlus](https://github.com/UrNightmaree/StringPlus)**
-  - A Lua module inspired from well-in-that-case's [LuaString](https://github.com/well-in-that-case/LuaString)
+- **[tluvit](https://github.com/UrNightmaree/tluvit)**
+  - A [Teal](https://github.com/teal-language/tl) (.tl) runner for [Luvit](https://luvit.io) runtime.
 
-- **[lconsole](https://github.com/UrNightmaree/lconsole)**
-  - lconsole is a random project that I made inspired from npm package "[Console](https://www.npmjs.com/package/Console)"
+- **[dotenv-lua](https://github.com/UrNightmaree/dotenv-lua)**
+  - A .env parser for Lua environment which is available through [Luarocks](https://luarocks.org) and [Lit](https://github.com/luvit/lit)!
 
 ---
 
