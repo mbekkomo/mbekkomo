@@ -15,5 +15,5 @@ What I do everyday 🤫:
 - **[dotenv-lua](https://github.com/UrNightmaree/dotenv-lua)**
   - A .env parser for Lua environment which is available through [Luarocks](https://luarocks.org) and [Lit](https://github.com/luvit/lit)!
 
-I'm also a Koishi love<br>
+I'm also a Koishi lover<br>
 ![](https://github.com/UrNightmaree/UrNightmaree/blob/main/img/DuD.gif?raw=true)
