@@ -20,7 +20,8 @@ Still-working projects:
 - **[stanly](https://github.com/UrNightmaree/stanly)**
   - A tool for building Lua scripts into real Standalone Lua static binary
 
-- **[ark](https://github.com/UrNightmaree/ark)** (Postponed due to favor of maintaining Stanly)
+- **[ark](https://github.com/UrNightmaree/ark)** <br>
+  <sub>(Postponed due to favor of maintaining Stanly)</sub>
   - Unofficial package manager for [Arturo language](https://arturo-lang.io)
 
 I'm also a Koishi lover<br>
