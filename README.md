@@ -7,7 +7,8 @@ What I do everyday 🤫:
 - Sleep 😴
 
 ### Projects
-![UrNightmaree's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrNightmaree&show_icons=true&theme=tokyonight)
+[![UrNightmaree's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrNightmaree&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrNightmaree&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Finished projects:
 - **[tluvit](https://github.com/UrNightmaree/tluvit)**
