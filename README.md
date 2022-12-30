@@ -25,5 +25,8 @@ Still-working projects:
   <sub>(Postponed due to favor of maintaining Stanly)</sub>
   - Unofficial package manager for [Arturo language](https://arturo-lang.io)
 
-I'm also a Koishi lover<br>
-![](https://github.com/UrNightmaree/UrNightmaree/blob/main/img/DuD.gif?raw=true)
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/UrNightmaree/UrNightmaree/main/img/satowi.webp"></img>
+</div>
