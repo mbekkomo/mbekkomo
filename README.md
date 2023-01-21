@@ -28,5 +28,5 @@ Still-working projects:
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/UrNightmaree/UrNightmaree/main/img/satowi.webp"></img>
+<img src="https://raw.githubusercontent.com/UrNightmaree/UrNightmaree/main/img/kokoishi.webp"></img>
 </div>
