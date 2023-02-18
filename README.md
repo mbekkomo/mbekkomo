@@ -15,10 +15,10 @@
     * **[tluvit](https://github.com/UrNightmaree/tluvit)**<br>
     A [Teal](https://github.com/teal-language/tl) (.tl) runner for [Luvit](https://luvit.io) runtime.
     * **[dotenv-lua](https://github.com/UrNightmaree/dotenv-lua)**<br>
-    A .env parser for Lua environment which is available through [Luarocks](https://luarocks.org) and [Lit](https://github.com/luvit/lit)!
- * In-works projects:
+    A .env parser for Lua environment which is available through [Luarocks](https://luarocks.org) and [Lit](https://github.com/luvit/lit)!:
     * **[Shocket](https://github.com/UrNightmaree/shocket)**<br>
     A Bash library for easier interacting with WebSocket.
+ * In-works projects:
     * **[Vyn](https://github.com/UrNightmaree/Vyn)**<br>
     An experimental tool for creating Vim syntax highlighting without touching Vimscript!
 
