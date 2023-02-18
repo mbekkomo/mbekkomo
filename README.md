@@ -1,32 +1,27 @@
-## Hello :3
-I like to write Lua, JS and MoonScript.
+[![UrNightmaree's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrNightmaree&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrNightmaree&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
-What I do everyday 🤫:
-- Coding 🤓
-- Finishing my project (like 50%) 😅
-- Sleep 😴
+## Hi, I'm UrNightmaree
+[![Profile Views](https://komarev.com/ghpvc/?username=UrNightmaree&color=cba6f7&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)<br><br>
+**A student, weeb and love programming 🤠💻**
 
-### Projects
-[![UrNightmaree's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrNightmaree&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrNightmaree&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### About Me 🤔
+ * Live in Indonesia 🇮🇩
+ * Love programming (not hacking) 💻
+ * Use Termux (mostly) for coding 📱
 
-Finished projects:
-- **[tluvit](https://github.com/UrNightmaree/tluvit)**
-  - A [Teal](https://github.com/teal-language/tl) (.tl) runner for [Luvit](https://luvit.io) runtime.
-
-- **[dotenv-lua](https://github.com/UrNightmaree/dotenv-lua)**
-  - A .env parser for Lua environment which is available through [Luarocks](https://luarocks.org) and [Lit](https://github.com/luvit/lit)!
-
-Still-working projects:
-- **[stanly](https://github.com/UrNightmaree/stanly)**
-  - A tool for building Lua scripts into real Standalone Lua static binary
-
-- **[ark](https://github.com/UrNightmaree/ark)** <br>
-  <sub>(Postponed due to favor of maintaining Stanly)</sub>
-  - Unofficial package manager for [Arturo language](https://arturo-lang.io)
+### Projects & Works 📚
+ * Done projects:
+    * **[tluvit](https://github.com/UrNightmaree/tluvit)**<br>
+    A [Teal](https://github.com/teal-language/tl) (.tl) runner for [Luvit](https://luvit.io) runtime.
+    * **[dotenv-lua](https://github.com/UrNightmaree/dotenv-lua)**<br>
+    A .env parser for Lua environment which is available through [Luarocks](https://luarocks.org) and [Lit](https://github.com/luvit/lit)!
+ * In-works projects:
+    * **[Shocket](https://github.com/UrNightmaree/shocket)**<br>
+    A Bash library for easier interacting with WebSocket.
+    * **[Vyn](https://github.com/UrNightmaree/Vyn)**<br>
+    An experimental tool for creating Vim syntax highlighting without touching Vimscript!
 
 ---
 
-<div align="center">
-<img src="/img/kokoishi.webp"></img>
-</div>
+[![Kokoro & Koishi](./assets/kokoishi.webp)](https://en.m.wikipedia.org/wiki/Touhou_Project)
