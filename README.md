@@ -22,6 +22,12 @@
     * **[Vyn](https://github.com/UrNightmaree/Vyn)**<br>
     An experimental tool for creating Vim syntax highlighting without touching Vimscript!
 
+### Find me 🔍
+You can find me in:
+   * Discord (UrNightmaree#2322) ↴<br>
+      * [Lua Scripters](https://discord.gg/7wu7ZsW) Discord Server<br>
+      * [Termux](https://discord.gg/HXpF69X) Discord Server
+
 ---
 
 [![Kokoro & Koishi](./assets/kokoishi.webp)](https://en.m.wikipedia.org/wiki/Touhou_Project)
