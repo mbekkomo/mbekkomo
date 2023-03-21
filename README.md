@@ -18,11 +18,12 @@
     A .env parser for Lua environment which is available through [Luarocks](https://luarocks.org) and [Lit](https://github.com/luvit/lit)!:
     * **[Shocket](https://github.com/UrNightmaree/shocket)**<br>
     A Bash library for easier interacting with WebSocket.
+    * **[fifo.sh](https://github.com/UrNightmaree/fifo.sh)**<br>
+    An implementation of FIFO without using `mkfifo`
+
  * In-works projects:
     * **[Vyn](https://github.com/UrNightmaree/Vyn)**<br>
     An experimental tool for creating Vim syntax highlighting without touching Vimscript!
-    * **[fifo.sh](https://github.com/UrNightmaree/fifo.sh)**<br>
-    An implementation of FIFO without using `mkfifo`
 
 ### Find me 🔍
 You can find me in:
