@@ -21,6 +21,8 @@
  * In-works projects:
     * **[Vyn](https://github.com/UrNightmaree/Vyn)**<br>
     An experimental tool for creating Vim syntax highlighting without touching Vimscript!
+    * **[fifo.sh](https://github.com/UrNightmaree/fifo.sh)**<br>
+    An implementation of FIFO without using `mkfifo`
 
 ### Find me 🔍
 You can find me in:
