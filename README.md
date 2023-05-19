@@ -20,6 +20,8 @@
     A Bash library for easier interacting with WebSocket.
     * **[fifo.sh](https://github.com/UrNightmaree/fifo.sh)**<br>
     An implementation of FIFO without using `mkfifo`
+    * **[log.sh](https://github.com/UrNightmaree/log.sh)**<br>
+    A logging library for POSIX sh and other shells (Bash, Zsh, Dash).
 
  * In-works projects:
     * **[Vyn](https://github.com/UrNightmaree/Vyn)**<br>
