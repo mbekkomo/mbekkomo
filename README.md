@@ -35,4 +35,4 @@ You can find me in:
 
 ---
 
-[![Kokoro & Koishi](./assets/kokoishi.webp)](https://en.m.wikipedia.org/wiki/Touhou_Project)
+<div align="center"><a href="https://en.m.wikipedia.org/wiki/Touhou_Project"><img src="./assets/kokoishi.webp" alt="Kokoro & Koishi <3"></a></div>
