@@ -43,6 +43,6 @@ You can find me in:
 <br>
 <div align="center">
 <b>+—————————————————————————+</b><br>
-<a href="https://en.m.wikipedia.org/wiki/Touhou_Project"><img src="./assets/end-img" alt="Satori and Koishi :333"></a><br>
+<a href="https://en.m.wikipedia.org/wiki/Touhou_Project"><img src="./assets/satokoi.webp" alt="Satori and Koishi :333"></a><br>
 <b>+—————————————————————————+</b>
 </div>
