@@ -8,12 +8,6 @@
 
 ## Hi, I'm UrNightmaree
 [![Profile Views](https://komarev.com/ghpvc/?username=UrNightmaree&color=cba6f7&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)<br><br>
-**A student, weeb and love programming 🤠💻**
-
-### About Me 🤔
- * Live in Indonesia 🇮🇩
- * Love programming (not hacking) 💻
- * Use Termux (mostly) for coding 📱
 
 ### Projects & Works 📚
  * Done projects:
@@ -43,6 +37,6 @@ You can find me in:
 <br>
 <div align="center">
 <b>+—————————————————————————+</b><br>
-<a href="https://en.m.wikipedia.org/wiki/Touhou_Project"><img src="./assets/satokoi.webp" alt="Satori and Koishi :333"></a><br>
+<img src="./assets/shu-chi.webp" alt="Shu Chi Senpai ❤️"><br>
 <b>+—————————————————————————+</b>
 </div>
