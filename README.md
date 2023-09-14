@@ -1,13 +1,13 @@
+## Hi, I'm UrNightmaree 👋
+[![Profile Views](https://komarev.com/ghpvc/?username=UrNightmaree&color=cba6f7&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)<br>
+
 <div align="top">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=UrNightmaree&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="UrNightmaree's Github stats">
-    </a> <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrNightmaree&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Top Langs">
+    </a>&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=UrNightmaree&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="UrNightmaree's Github stats">
     </a>
 </div>
-
-## Hi, I'm UrNightmaree
-[![Profile Views](https://komarev.com/ghpvc/?username=UrNightmaree&color=cba6f7&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)<br><br>
 
 ### Projects & Works 📚
  * Done projects:
@@ -34,9 +34,9 @@ You can find me in:
       * [Lua Scripters](https://discord.gg/7wu7ZsW) Discord Server<br>
       * [Termux](https://discord.gg/HXpF69X) Discord Server
 
-<br>
+<hr style="heigth:10px">
+
 <div align="center">
-<b>+—————————————————————————+</b><br>
 <img src="./assets/shu-chi.webp" alt="Shu Chi Senpai ❤️"><br>
-<b>+—————————————————————————+</b>
+<br><sub><i>"Mmmm… delicious… five more pieces…"&nbsp;&nbsp;-&nbsp;Leopard Cat</i></sub>
 </div>
