@@ -20,7 +20,7 @@
 
 ## &nbsp;**I'm everywhere!**
 * You can find me in:
-   * Discord (UrNightmaree#2322) ↴<br>
+   * Discord (`komodcat`) ↴<br>
       * [Lua Scripters](https://discord.gg/7wu7ZsW) Discord Server<br>
       * [Termux](https://discord.gg/HXpF69X) Discord Server
 
