@@ -1,42 +1,33 @@
-## Hi, I'm UrNightmaree 👋
-[![Profile Views](https://komarev.com/ghpvc/?username=UrNightmaree&color=cba6f7&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)<br>
+## **komoDcat, at your service &nbsp;\~ω~**
+<i><sub>An overly-addicted-to-caffeine cat, that's me! ᓚᘏᗢ</sub></i><br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=komoDcat&color=cba6f7&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)<br>
 
 <div align="top">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrNightmaree&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Top Langs">
+        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komoDcat&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Top Langs">
     </a>&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=UrNightmaree&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="UrNightmaree's Github stats">
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=komoDcat&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="UrNightmaree's Github stats">
     </a>
 </div>
+<br>
 
-### Projects & Works 📚
- * Done projects:
-    * **[tluvit](https://github.com/UrNightmaree/tluvit)**<br>
-    A [Teal](https://github.com/teal-language/tl) (.tl) runner for [Luvit](https://luvit.io) runtime.
-    * **[dotenv-lua](https://github.com/UrNightmaree/dotenv-lua)**<br>
-    A .env parser for Lua environment which is available through [Luarocks](https://luarocks.org) and [Lit](https://github.com/luvit/lit)!:
-    * **[Shocket](https://github.com/UrNightmaree/shocket)**<br>
-    A Bash library for easier interacting with WebSocket.
-    * **[fifo.sh](https://github.com/UrNightmaree/fifo.sh)**<br>
-    An implementation of FIFO without using `mkfifo`
-    * **[log.sh](https://github.com/UrNightmaree/log.sh)**<br>
-    A logging library for POSIX sh and other shells (Bash, Zsh, Dash).
-    * **[bash-source](https://github.com/UrNightmaree/bash-source)**<br>
-    Improve Bash's `source` into more modular system.
+## &nbsp;**My side projects &nbsp;>:3**
 
- * In-works projects:
-    * **[Vyn](https://github.com/UrNightmaree/Vyn)**<br>
-    An experimental tool for creating Vim syntax highlighting without touching Vimscript!
+* On-going:
+  * [warna](https://github.com/komoDcat/warna) — 🎨 Terminal text styling for Lua
+  * [lovne](https://github.com/komoDcat/lovne) — A visual novel engine for LÖVE
 
-### Find me 🔍
-You can find me in:
+## &nbsp;**I'm everywhere!**
+* You can find me in:
    * Discord (UrNightmaree#2322) ↴<br>
       * [Lua Scripters](https://discord.gg/7wu7ZsW) Discord Server<br>
       * [Termux](https://discord.gg/HXpF69X) Discord Server
 
 <hr style="heigth:10px">
-
 <div align="center">
-<img src="./assets/shu-chi.webp" alt="Shu Chi Senpai ❤️"><br>
-<br><sub><i>"Mmmm… delicious… five more pieces…"&nbsp;&nbsp;-&nbsp;Leopard Cat</i></sub>
+    
+&nbsp;&nbsp;<a href="https://www.instagram.com/reel/C0HxKMBNyvy/">
+<img src="./assets/cat.png" width="320" heigth="320" align="center" alt="Tired af">
+</a>&nbsp;&nbsp;**Tired.**
 </div>
