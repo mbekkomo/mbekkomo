@@ -1,4 +1,4 @@
-## **KomoDCat, at your service! &nbsp;OωO**
+## [<img src="./assets/cat.png" width="80" heigth="80" align="center" alt="Tired af">](https://www.instagram.com/reel/C0HxKMBNyvy/)&nbsp;&nbsp;&nbsp;**KomoDCat, at your service! &nbsp;OωO**
 <i><sub>An overly-addicted-to-caffeine cat, that's me! ᓚᘏᗢ</sub></i><br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=komoDcat&color=cba6f7&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)<br>
@@ -24,11 +24,11 @@
       * [Termux](https://discord.gg/HXpF69X) Discord Server
 
 <hr style="heigth:10px">
+
 <div align="center">
-    
-[
-<img src="./assets/cat.png" width="320" heigth="320" align="center" alt="Tired af">
-](https://www.instagram.com/reel/C0HxKMBNyvy/)
-<br>
-**Tired.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KomoDCat/komoDcat/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KomoDCat/komoDcat/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/KomoDCat/komoDcat/raw/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
