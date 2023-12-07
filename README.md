@@ -17,7 +17,7 @@
   * [warna](https://github.com/komoDcat/warna) — 🎨 Terminal text styling for Lua
   * [lovne](https://github.com/komoDcat/lovne) — A visual novel engine for LÖVE
 
-## &nbsp;**I'm everywhere! &nbsp;°ω°**
+## &nbsp;**I'm everywhere! &nbsp;•ω•**
 * You can find me in:
    * Discord (`komodcat`) ↴<br>
       * [Lua Scripters](https://discord.gg/7wu7ZsW) Discord Server<br>
