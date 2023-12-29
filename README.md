@@ -1,15 +1,19 @@
 ## [<img src="./assets/cat.png" width="80" heigth="80" align="center" alt="Tired af">](https://www.instagram.com/reel/C0HxKMBNyvy/)&nbsp;&nbsp;&nbsp;**Komo the Cat, at your service! &nbsp;OωO**
-<i><sub>An overly-addicted-to-caffeine cat, that's me! ᓚᘏᗢ</sub></i><br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=komoDcat&color=cba6f7&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)<br>
+![Favorite Color](./assets/badge-color.svg)&nbsp;&nbsp;![Species](./assets/badge-void-cat.svg)&nbsp;&nbsp;![Sky](./assets/badge-sky.svg)
+<br>
+
+>
+> *An overly-addicted-to-caffeine cat, that's me! ᓚᘏᗢ*
+>
+
 <br>
 <div align="top">
 
-[![UrNightmaree's Github stats](https://github-readme-stats.vercel.app/api?username=komothecat&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komothecat&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+[![UrNightmaree's Github stats](https://github-readme-stats.vercel.app/api?username=komothecat&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=f5a97f&title_color=8aadf4)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komothecat&bg_color=24273a&text_color=cad3f5&icon_color=f5a97f&title_color=8aadf4)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<br>
 
 ## &nbsp;**My side projects... &nbsp;>:3**
 
@@ -19,9 +23,10 @@
 
 ## &nbsp;**I'm everywhere! &nbsp;•ω•**
 * You can find me in:
-   * Discord (`komothecat`) ↴<br>
-      * [Lua Scripters](https://discord.gg/7wu7ZsW) Discord Server<br>
-      * [Termux](https://discord.gg/HXpF69X) Discord Server
+   * Discord Servers ↴<br>
+      * [**Lua Scripters**](https://discord.gg/7wu7ZsW)
+      * [**Termux**](https://discord.gg/HXpF69X)
+   * [**Bluesky**](https://bsky.app/profile/komothecat.bsky.social)
 
 <hr style="heigth:10px">
 
