@@ -16,9 +16,9 @@
 </div>
 
 ## &nbsp;**My side projects... &nbsp;>:3**
+* [warna](https://github.com/komothecat/warna) — 🎨 Terminal text styling for Lua
 
 * On-going:
-  * [warna](https://github.com/komothecat/warna) — 🎨 Terminal text styling for Lua
   * [lovne](https://github.com/komothecat/lovne) — A visual novel engine for LÖVE
 
 ## &nbsp;**I'm everywhere! &nbsp;•ω•**
