@@ -10,8 +10,8 @@
 <br>
 <div align="top">
 
-[![UrNightmaree's Github stats](https://github-readme-stats.vercel.app/api?username=komothecat&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=f5a97f&title_color=8aadf4)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komothecat&bg_color=24273a&text_color=cad3f5&icon_color=f5a97f&title_color=8aadf4)](https://github.com/anuraghazra/github-readme-stats)
+[![UrNightmaree's Github stats](https://github-readme-stats.vercel.app/api?username=cattokomo&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=f5a97f&title_color=8aadf4)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cattokomo&bg_color=24273a&text_color=cad3f5&icon_color=f5a97f&title_color=8aadf4)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
