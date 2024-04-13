@@ -26,7 +26,7 @@
    * Discord Servers ↴<br>
       * [**Lua Scripters**](https://discord.gg/7wu7ZsW)
       * [**Termux**](https://discord.gg/HXpF69X)
-   * [**Bluesky**](https://bsky.app/profile/komothecat.bsky.social)
+   * [**Bluesky**](https://bsky.app/profile/cattokomo.bsky.social)
 
 <hr style="heigth:10px">
 
