@@ -19,7 +19,7 @@
 * [warna](https://github.com/komothecat/warna) — 🎨 Terminal text styling for Lua
 
 * On-going:
-  * [lovne](https://github.com/komothecat/lovne) — A visual novel engine for LÖVE
+  * [bakemono](https://github.com/cattokomo/bakemono) — A Visual Novel engine on top of Raylib
 
 ## &nbsp;**I'm everywhere! &nbsp;•ω•**
 * You can find me in:
