@@ -1,34 +1,61 @@
-## [<img src="./assets/cat.png" width="80" heigth="80" align="center" alt="Tired af">](https://www.instagram.com/reel/C0HxKMBNyvy/)&nbsp;&nbsp;&nbsp;**Komo the Cat, at your service! &nbsp;OωO**
+<div align="center">
 
-![Favorite Color](./assets/badge-color.svg)&nbsp;&nbsp;![Species](./assets/badge-void-cat.svg)&nbsp;&nbsp;![Sky](./assets/badge-sky.svg)
-<br>
+Just a guy who's interested in programming and also animals.
 
->
-> *An overly-addicted-to-caffeine cat, that's me! ᓚᘏᗢ*
->
+I make useless libraries and softwares for you to use. I'm also a so-called UTAU producer (because I made a cover of Donut Hole with WALTT).
 
-<br>
-<div align="top">
-
-[![UrNightmaree's Github stats](https://github-readme-stats.vercel.app/api?username=cattokomo&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=f5a97f&title_color=8aadf4)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cattokomo&bg_color=24273a&text_color=cad3f5&icon_color=f5a97f&title_color=8aadf4)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="display:inline-block;vertical-align:top;">
+ <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cattokomo&bg_color=24273a&text_color=cad3f5&icon_color=f5a97f&title_color=8aadf4">
 </div>
+<div style="display:inline-block;">
+<br>
+<div>These are the languages I mostly used, yes I'm a Lua programmer as you can see.</div>
+</div>
+<br>
 
-## &nbsp;**My side projects... &nbsp;>:3**
-* [warna](https://github.com/komothecat/warna) — 🎨 Terminal text styling for Lua
+---
 
-* On-going:
-  * [bakemono](https://github.com/cattokomo/bakemono) — A Visual Novel engine on top of Raylib
+### Package I maintain
 
-## &nbsp;**I'm everywhere! &nbsp;•ω•**
-* You can find me in:
-   * Discord Servers ↴<br>
-      * [**Lua Scripters**](https://discord.gg/7wu7ZsW)
-      * [**Termux**](https://discord.gg/HXpF69X)
-   * [**Bluesky**](https://bsky.app/profile/cattokomo.bsky.social)
+<table>
+ <tr>
+  <td>
+   
+   [![Arturo](https://repology.org/badge/version-for-repo/termux/arturo.svg?header=Arturo)](https://repology.org/project/arturo/versions)
+  </td>
+  <td>
+   
+   [![Luvi](https://repology.org/badge/version-for-repo/termux/luvi.svg?header=Luvi)](https://repology.org/project/luvi/versions)
+  </td>
+  <td>
 
-<hr style="heigth:10px">
+   [![Luvit](https://repology.org/badge/version-for-repo/termux/lua:luvit.svg?header=Luvit)](https://repology.org/project/lua:luvit/versions)
+  </td>
+ </tr>
+ <tr>
+  <td>
+
+   [![Lit](https://repology.org/badge/version-for-repo/termux/lit-luvit.svg?header=Lit)](https://repology.org/project/lit-luvit/versions)
+  </td>
+  <td>
+
+   [![Gleam](https://repology.org/badge/version-for-repo/termux/gleam.svg?header=Gleam)](https://repology.org/project/gleam/versions)
+  </td>
+  <td>
+
+   [![helm-ls](https://repology.org/badge/version-for-repo/termux/helm-ls.svg?header=helm-ls)](https://repology.org/project/helm-ls/versions)
+  </td>
+ </tr>
+ <tr>
+
+   <td>
+
+   [![Plutolang](https://repology.org/badge/version-for-repo/termux/plutolang.svg?header=plutolang)](https://repology.org/project/plutolang/versions)
+  </td>
+ </tr>
+</table>
+
+---
 
 <div align="center">
 <picture>
