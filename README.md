@@ -50,7 +50,7 @@ I make useless libraries and softwares for you to use. I'm also a so-called UTAU
 
    <td>
 
-   [![Plutolang](https://repology.org/badge/version-for-repo/termux/plutolang.svg?header=plutolang)](https://repology.org/project/plutolang/versions)
+   [![libpluto](https://repology.org/badge/version-for-repo/termux/libpluto.svg?header=libpluto)](https://repology.org/project/plutolang/versions)
   </td>
  </tr>
 </table>
