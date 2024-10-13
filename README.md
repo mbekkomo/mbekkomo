@@ -5,13 +5,11 @@ Just a guy who's interested in programming and also animals.
 I make useless libraries and softwares for you to use. I'm also a so-called UTAU producer (because I made a cover of Donut Hole with WALTT).
 
 <div style="display:inline-block;vertical-align:top;">
- <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbekkomo&bg_color=24273a&text_color=cad3f5&icon_color=f5a97f&title_color=8aadf4">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbekkomo&theme=tokyonight&layout=donut)
+
 </div>
-<div style="display:inline-block;">
-<br>
-<div>These are the languages I mostly used, yes I'm a Lua programmer as you can see.</div>
-</div>
-<br>
+</br>
 
 ---
 
