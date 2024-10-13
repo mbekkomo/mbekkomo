@@ -5,7 +5,7 @@ Just a guy who's interested in programming and also animals.
 I make useless libraries and softwares for you to use. I'm also a so-called UTAU producer (because I made a cover of Donut Hole with WALTT).
 
 <div style="display:inline-block;vertical-align:top;">
- <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cattokomo&bg_color=24273a&text_color=cad3f5&icon_color=f5a97f&title_color=8aadf4">
+ <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbekkomo&bg_color=24273a&text_color=cad3f5&icon_color=f5a97f&title_color=8aadf4">
 </div>
 <div style="display:inline-block;">
 <br>
