@@ -1,6 +1,6 @@
 <div align="center">
 
-Just a guy who's interested in programming and also animals.
+Just a guy who's interested in programming and these things called "furries".
 
 I make useless libraries and softwares for you to use. I'm also a so-called UTAU producer (because I made a cover of Donut Hole with WALTT).
 
